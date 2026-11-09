@@ -1,0 +1,15 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtuele omgeving
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Gevoelige bestanden
+.env
+.env.*
